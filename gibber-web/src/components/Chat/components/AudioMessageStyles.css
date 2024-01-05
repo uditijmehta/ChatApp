@@ -1,0 +1,13 @@
+.audio-player-container {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 5px;
+}
+.react-audio-player {
+    width: 100%;
+}
+
+
+
+

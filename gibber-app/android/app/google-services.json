@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "600119049151",
+    "project_id": "gibber-chat---ga4",
+    "storage_bucket": "gibber-chat---ga4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600119049151:android:05da452a9a98b13ed67f0a",
+        "android_client_info": {
+          "package_name": "com.gibber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600119049151-85d6m8mgcmfptbddratjmg2osvqnivh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxaFVTV97Xhm7ru6fqZERKQbV1d639P7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600119049151-85d6m8mgcmfptbddratjmg2osvqnivh1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600119049151-h97m7qr26s25ob1e8208fv0kksktsvo9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.letschat.mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

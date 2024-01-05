@@ -1,0 +1,30 @@
+
+.dropdown {
+  border:none;
+  background-image:none;
+  background-color:transparent;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  border-bottom: none;
+  border: lightgray 2px solid;
+  border-radius: 15px;
+  font-size: 18px;
+  color: gray;
+  padding-inline: 15px;
+  padding: 5px;
+  padding-inline: 15px;
+  width: 300px;
+  margin-top: 25px;
+  max-width: 300px !important;
+    min-width: 150px !important;
+    width: -webkit-fill-available !important;
+}
+
+.dropdown:focus{
+  outline: none;
+  box-shadow: #358BD0 0px 0px 10px;
+  border-bottom: none;
+  border-radius: 15px;
+}
+
+

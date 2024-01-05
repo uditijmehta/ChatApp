@@ -1,0 +1,32 @@
+.form-check {
+  display: flex !important;
+  justify-content: space-around !important;
+  margin-top: 10px !important;
+}
+
+.requested-btn{
+  background-color: rgb(59 59 59);
+  width: 30%;
+  height: 30%;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  position: absolute;
+  top: 30%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+}
+
+.request-btn{
+  background-color: #338ace;
+  padding: 0px 10px 0px 10px;
+  width: 30%;
+  height: 30%;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  position: absolute;
+  top: 30%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+}

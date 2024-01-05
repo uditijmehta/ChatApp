@@ -1,0 +1,44 @@
+.react-tel-input{
+    max-width: 350px !important;
+    min-width: 250px !important;
+    width: -webkit-fill-available !important;
+
+}
+
+.react-tel-input .form-control {
+    border:none;
+    font-size: 17px;
+    height: auto;
+    line-height: inherit;
+    max-width: 350px !important;
+    min-width: 250px !important;
+    width: -webkit-fill-available !important;
+}
+
+.react-tel-input .flag-dropdown {
+    background-color: transparent;
+    border: none;
+}
+
+.text-field {
+    border:none;
+    background-image:none;
+    background-color:transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 2px solid #848484;
+    font-size: 17px;
+    padding: 10px 0;
+    margin-top: 25px;
+}
+
+h3 {
+    font-size: calc(.7rem + .7vw) !important;
+    font-weight: 700 !important;
+}
+
+.login-btn {
+    max-width: 300px !important;
+    width: -webkit-fill-available !important;
+}
